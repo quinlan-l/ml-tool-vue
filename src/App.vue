@@ -105,7 +105,7 @@ function search() {
 .sc-flex-box {
   display: flex;
   flex-direction: column;
-  width: 550px;
+  width: 500px;
   height: 130px;
   justify-content: space-between;
   align-items: center;
