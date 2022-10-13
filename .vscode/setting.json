@@ -1,0 +1,11 @@
+{
+  "eslint.autoFixOnSave": true,
+  "eslint.validate": [
+    "typescript",
+    "vue"
+  ],
+  "editor.tabSize": 2,
+  "editor.formatOnSave": false,
+  "prettier.semi": false,
+  "prettier.singleQuote": false
+}
